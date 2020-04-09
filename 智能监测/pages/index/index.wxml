@@ -1,0 +1,9 @@
+<view class="index-item">
+  <view class="item-image">
+    <image mode="widthFix" src="/images/tupian.png" bindtap="logBtn"></image>
+  </view>
+  <view class="item-welcome">
+    <view class="item-welcome1">随时随地查看家庭温室情况</view>
+    <view class="item-welcome2">为您的绿植保驾护航</view>
+  </view>
+</view>

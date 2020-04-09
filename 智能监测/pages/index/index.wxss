@@ -1,0 +1,21 @@
+page{
+  background-color: #fff;
+}
+.index-item .item-image{
+  height: 60%;
+  width: 100%
+}
+.index-item .item-welcome{
+  width: 100%;
+  font-size: 40rpx;
+  color: #6fba5b;
+  font-weight: 600;
+}
+.index-item .item-welcome1{
+  padding: 60rpx 60rpx 10rpx 60rpx;
+  text-align: center;
+}
+.index-item .item-welcome2{
+  padding: 0 120rpx;
+  text-align: center;
+}

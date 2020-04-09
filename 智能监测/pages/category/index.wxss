@@ -1,0 +1,16 @@
+page{
+  background-color: #fff;
+}
+.item-monitor .monitor-temperature{
+  font-weight: 600;
+  text-align: center;
+  padding-top: 40rpx;
+}
+.item-monitor .monitor-humidity{
+  font-weight: 600;
+  text-align: center;
+}
+.item-monitor .monitor-three{
+  font-weight: 600;
+  text-align: center;
+}

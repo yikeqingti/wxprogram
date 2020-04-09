@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/category/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#6fba5b",
+    "navigationBarTitleText": "智能监控",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar":{
+    "color": "#54bfaa",
+    "selectedColor": "#e66136",
+    "backgroundColor": "fafafa",
+    "list":[{
+      "pagePath":"pages/index/index",
+      "text":"首页",
+      "iconPath":"icons/home.png",
+      "selectedIconPath":"icons/home-o.png"
+    },
+    {
+      "pagePath": "pages/category/index",
+      "text": "实时数据查看",
+      "iconPath": "icons/category.png",
+      "selectedIconPath": "icons/category-o.png"
+    }]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
